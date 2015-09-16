@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:34.838422
+#+DATE: 2015-08-30 20:13:35.933344
 #+TITLE: 佛為海龍王說法印經
 #+PROPERTY: CBETA_ID T15n0599
 #+PROPERTY: ID KR6i0233
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 599
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0233_T_000-0157b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0233_T_001-0157b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.599¶
-
- 《佛為海龍王說法印經》¶
+No. 599¶
+《佛為海龍王說法印經》¶
 ¶
 大唐三藏法師義淨奉　詔譯¶
 
