@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:35.933344
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:00
 #+TITLE: 佛為海龍王說法印經
 #+PROPERTY: CBETA_ID T15n0599
 #+PROPERTY: ID KR6i0233
